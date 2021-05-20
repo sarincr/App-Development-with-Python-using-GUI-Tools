@@ -1,2 +1,9 @@
-# GUI-With-Tkinter-using-Python
-Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface
+A step-by-step approach to creating a simple apps in Python with libraries such as Tkinter, Turtle, Simplepygui, Dearpygui, and others. The following applications have been developed:
+1. Calculator
+2. Notepad 
+3. To Do list
+4. CSV Converter
+5. Weather App
+6. Plot App
+7. Dictionary
+8. Forms
